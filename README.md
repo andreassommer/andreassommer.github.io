@@ -1,8 +1,6 @@
 # andreassommer.github.io
 
-This site is under construction. 
-
-Now that you're here, you can take a look at my repositories.
+This site is a stub. But now that you're here, you can take a look at my repositories.
 
 [optionlists](https://andreassommer.github.io/optionlists "Matlab tools for handling name-value pairs in function calls")
 \- Matlab tools for handling name-value pairs in function calls.
